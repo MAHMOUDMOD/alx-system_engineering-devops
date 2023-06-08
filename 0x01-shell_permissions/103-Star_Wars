@@ -1,0 +1,3 @@
+#!/bin/bash
+clear
+cat /path/to/star_wars.txt
