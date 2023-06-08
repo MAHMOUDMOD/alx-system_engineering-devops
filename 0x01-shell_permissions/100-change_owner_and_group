@@ -1,0 +1,3 @@
+#!/bin/bash
+# Change owner and group recursively for all files and directories
+chown -R vincent:staff .
