@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ "$(stat -c %U hello)" = "betty" ] the
+chown --from=guillaume betty hello
