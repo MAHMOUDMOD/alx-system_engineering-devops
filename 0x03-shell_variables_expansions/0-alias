@@ -1,1 +1,2 @@
-echo "alias ls='rm *'" >> ~/.bashrc
+#!/bin/bash
+echo "Hello $(whoami)"
