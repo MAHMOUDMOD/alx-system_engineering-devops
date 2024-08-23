@@ -44,6 +44,3 @@ Corrected the upstream server address and redeployed the configuration.
 2. Create a configuration change checklist.
 3. Add alerts for configuration changes.
 4. Train the team on incident handling.
-```
-
-This version is more concise while still covering all the key points.
